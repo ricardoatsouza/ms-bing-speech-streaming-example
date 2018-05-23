@@ -1,0 +1,14 @@
+{
+  "name": "ms-bing-speech-streaming-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ricardoatsouza",
+  "license": "ISC",
+  "dependencies": {
+    "ms-bing-speech-service": "^2.0.3"
+  }
+}
