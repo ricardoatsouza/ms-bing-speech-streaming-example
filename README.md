@@ -11,7 +11,9 @@ Since this is an example, it's a very simple script. Open the file `main.js` and
 
 # To run
 
-Make sure to have `npm` installed. Install the dependencies...
+Make sure to have `npm` installed. Download the code via `git clone` and go inside the created directory.
+
+Install the dependencies...
 
 ```
 $ npm install
